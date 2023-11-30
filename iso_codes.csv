@@ -1,0 +1,251 @@
+,Country,ISO 3166,Region
+0,-------,--------,------
+173,Paraguay,PY,LATAM
+174,Peru,PE,LATAM
+40,Canada,CA,NAMER
+42,Cayman Islands,KY,LATAM
+226,Trinidad and Tobago,TT,LATAM
+45,Chile,CL,LATAM
+179,Puerto Rico,PR,LATAM
+49,Colombia,CO,LATAM
+185,Saint Barthélemy,BL,LATAM
+54,Costa Rica,CR,LATAM
+111,Jamaica,JM,LATAM
+57,Cuba,CU,LATAM
+58,Curaçao,CW,LATAM
+187,Saint Kitts And Nevis,KN,LATAM
+230,Turks and Caicos Islands,TC,LATAM
+188,Saint Lucia,LC,LATAM
+190,Saint Pierre and Miquelon,PM,LATAM
+63,Dominica,DM,LATAM
+64,Dominican Republic,DO,LATAM
+65,Ecuador,EC,LATAM
+191,Saint Vincent and The Grenadines,VC,LATAM
+67,El Salvador,SV,LATAM
+212,Suriname,SR,LATAM
+99,Honduras,HN,LATAM
+96,Haiti,HT,LATAM
+95,Guyana,GY,LATAM
+77,French Guiana,GF,LATAM
+91,Guatemala,GT,LATAM
+89,Guadeloupe,GP,LATAM
+88,Grenada,GD,LATAM
+189,Saint Martin,MF,LATAM
+171,Panama,PA,LATAM
+201,Sint Maarten (Dutch part),SX,LATAM
+32,Brazil,BR,LATAM
+160,Nicaragua,NI,LATAM
+244,Virgin Islands (U.S.),VI,LATAM
+243,Virgin Islands (British),VG,LATAM
+150,Montserrat,MS,LATAM
+8,Anguilla,AI,LATAM
+10,Antigua and Barbuda,AG,LATAM
+11,Argentina,AR,LATAM
+241,Venezuela,VE,LATAM
+13,Aruba,AW,LATAM
+17,Bahamas,BS,LATAM
+20,Barbados,BB,LATAM
+237,United States of America,US,NAMER
+144,Mexico,MX,LATAM
+23,Belize,BZ,LATAM
+238,Uruguay,UY,LATAM
+28,"Bonaire, Sint Eustatius and Saba",BQ,LATAM
+27,Bolivia (Plurinational State of),BO,LATAM
+140,Martinique,MQ,LATAM
+25,Bermuda,BM,LATAM
+139,Marshall Islands,MH,APAC
+103,India,IN,APAC
+100,Hong Kong,HK,APAC
+131,Macao,MO,APAC
+97,Heard Island and McDonald Islands,HM,APAC
+169,Palau,PW,APAC
+153,Myanmar,MM,APAC
+136,Maldives,MV,APAC
+172,Papua New Guinea,PG,APAC
+90,Guam,GU,APAC
+155,Nauru,NR,APAC
+156,Nepal,NP,APAC
+104,Indonesia,ID,APAC
+192,Samoa,WS,APAC
+119,Korea (Republic of),KR,APAC
+121,Kyrgyzstan,KG,APAC
+200,Singapore,SG,APAC
+148,Mongolia,MN,APAC
+164,Norfolk Island,NF,APAC
+165,Northern Mariana Islands,MP,APAC
+176,Pitcairn,PN,APAC
+135,Malaysia,MY,APAC
+145,Micronesia,FM,APAC
+112,Japan,JP,APAC
+168,Pakistan,PK,APAC
+122,Laos,LA,APAC
+117,Kiribati,KI,APAC
+118,Korea (Democratic People’s Republic of),KV,APAC
+163,Niue,NU,APAC
+175,Philippines,PH,APAC
+79,French Southern Territories,TF,APAC
+48,Cocos (Keeling) Islands,CC,APAC
+53,Cook Islands,CK,APAC
+222,Timor-Leste,TL,APAC
+224,Tokelau,TK,APAC
+47,Christmas Island,CX,APAC
+46,China,CN,APAC
+225,Tonga,TO,APAC
+38,Cambodia,KH,APAC
+229,Turkmenistan,TM,APAC
+231,Tuvalu,TV,APAC
+34,Brunei Darussalam,BN,APAC
+33,British Indian Ocean Territory,IO,APAC
+26,Bhutan,BT,APAC
+236,United States Minor Outlying Islands,UM,APAC
+19,Bangladesh,BD,APAC
+239,Uzbekistan,UZ,APAC
+240,Vanuatu,VU,APAC
+14,Australia,AU,APAC
+9,Antarctica,AQ,APAC
+242,Viet Nam,VN,APAC
+5,American Samoa,AS,APAC
+245,Wallis and Futuna,WF,APAC
+221,Thailand,TH,APAC
+219,Tajikistan,TJ,APAC
+158,New Caledonia,NC,APAC
+74,Fiji,FJ,APAC
+210,Sri Lanka,LK,APAC
+78,French Polynesia,PF,APAC
+159,New Zealand,NZ,APAC
+218,Taiwan,TW,APAC
+204,Solomon Islands,SB,APAC
+161,Niger,NE,EMEA
+232,Uganda,UG,EMEA
+247,Yemen,YE,EMEA
+170,Palestine,PS,EMEA
+233,Ukraine,UA,EMEA
+234,United Arab Emirates,AE,EMEA
+207,South Georgia and the South Sandwich Islands,GS,EMEA
+235,United Kingdom,GB,EMEA
+167,Oman,OM,EMEA
+166,Norway,NO,EMEA
+196,Senegal,SN,EMEA
+208,South Sudan,SS,EMEA
+198,Seychelles,SC,EMEA
+246,Western Sahara,EH,EMEA
+206,South Africa,ZA,EMEA
+205,Somalia,SO,EMEA
+162,Nigeria,NG,EMEA
+199,Sierra Leone,SL,EMEA
+197,Serbia,RS,EMEA
+217,Syria,SY,EMEA
+209,Spain,ES,EMEA
+220,Tanzania,TZ,EMEA
+216,Switzerland,CH,EMEA
+186,Saint Helena,SH,EMEA
+215,Sweden,SE,EMEA
+184,Rwanda,RW,EMEA
+183,Russia,RU,EMEA
+214,Swaziland,SZ,EMEA
+223,Togo,TG,EMEA
+213,Svalbard,SJ,EMEA
+195,Saudi Arabia,SA,EMEA
+182,Romania,RO,EMEA
+211,Sudan,SD,EMEA
+181,Réunion,RE,EMEA
+180,Qatar,QA,EMEA
+193,San Marino,SM,EMEA
+178,Portugal,PT,EMEA
+177,Poland,PL,EMEA
+194,Sao Tome and Principe,ST,EMEA
+227,Tunisia,TN,EMEA
+228,Turkey,TR,EMEA
+202,Slovakia,SK,EMEA
+203,Slovenia,SI,EMEA
+124,Lebanon,LB,EMEA
+154,Namibia,,EMEA
+50,Comoros,KM,EMEA
+51,Congo (Democratic Republic of the),CD,EMEA
+52,Congo,CG,EMEA
+55,Côte d’Ivoire,CI,EMEA
+56,Croatia,HR,EMEA
+59,Cyprus,CY,EMEA
+60,Czech Republic,CZ,EMEA
+61,Denmark,DK,EMEA
+44,Chad,TD,EMEA
+62,Djibouti,DJ,EMEA
+68,Equatorial Guinea,GQ,EMEA
+69,Eritrea,ER,EMEA
+70,Estonia,EE,EMEA
+71,Ethiopia,ET,EMEA
+72,Falkland Islands,FK,EMEA
+73,Faroe Islands,FO,EMEA
+75,Finland,FI,EMEA
+76,France,FR,EMEA
+66,Egypt,EG,EMEA
+43,Central African Republic,CF,EMEA
+41,Cabo Verde,CV,EMEA
+39,Cameroon,CM,EMEA
+1,Afghanistan,AF,EMEA
+2,Åland Islands,AX,EMEA
+3,Albania,AL,EMEA
+4,Algeria,DZ,EMEA
+6,Andorra,AD,EMEA
+7,Angola,AO,EMEA
+12,Armenia,AM,EMEA
+15,Austria,AT,EMEA
+16,Azerbaijan,AZ,EMEA
+18,Bahrain,BH,EMEA
+21,Belarus,BY,EMEA
+22,Belgium,BE,EMEA
+24,Benin,BJ,EMEA
+29,Bosnia and Herzegovina,BA,EMEA
+30,Botswana,BW,EMEA
+31,Bouvet Island,BV,EMEA
+35,Bulgaria,BG,EMEA
+36,Burkina Faso,BF,EMEA
+37,Burundi,BI,EMEA
+80,Gabon,GA,EMEA
+81,Gambia,GM,EMEA
+82,Georgia,GE,EMEA
+83,Germany,DE,EMEA
+125,Lesotho,LS,EMEA
+126,Liberia,LR,EMEA
+127,Libya,LY,EMEA
+128,Liechtenstein,LI,EMEA
+129,Lithuania,LT,EMEA
+130,Luxembourg,LU,EMEA
+132,Macedonia,MK,EMEA
+133,Madagascar,MG,EMEA
+134,Malawi,MW,EMEA
+137,Mali,ML,EMEA
+138,Malta,MT,EMEA
+141,Mauritania,MR,EMEA
+142,Mauritius,MU,EMEA
+143,Mayotte,YT,EMEA
+146,Moldova,MD,EMEA
+147,Monaco,MC,EMEA
+149,Montenegro,ME,EMEA
+151,Morocco,MA,EMEA
+152,Mozambique,MZ,EMEA
+248,Zambia,ZM,EMEA
+157,Netherlands,NL,EMEA
+123,Latvia,LV,EMEA
+116,Kenya,KE,EMEA
+84,Ghana,GH,EMEA
+85,Gibraltar,GI,EMEA
+86,Greece,GR,EMEA
+87,Greenland,GL,EMEA
+92,Guernsey,GG,EMEA
+93,Guinea,GN,EMEA
+94,Guinea-Bissau,GW,EMEA
+98,Vatican City,VA,EMEA
+101,Hungary,HU,EMEA
+102,Iceland,IS,EMEA
+105,Iran,IR,EMEA
+106,Iraq,IQ,EMEA
+107,Ireland,IE,EMEA
+108,Isle of Man,IM,EMEA
+109,Israel,IL,EMEA
+110,Italy,IT,EMEA
+113,Jersey,JE,EMEA
+114,Jordan,JO,EMEA
+115,Kazakhstan,KZ,EMEA
+120,Kuwait,KW,EMEA
+249,Zimbabwe,ZW,EMEA
