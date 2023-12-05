@@ -152,7 +152,6 @@ def horizontal_barplot(con, query, name, label, xtick):
 
 def generate_timeline():
     timeline = []
-    print('HERE')
     for a in range(1, 14):
         if a == 13:
             timeline.append(datetime.strptime('2017-01-01', '%Y-%m-%d'))
@@ -222,6 +221,7 @@ def revenue_plot(con, query, ycoords):
 
 ########## TRENDS ##########
 
+
 # General
 find_trend(
     con,
@@ -276,7 +276,15 @@ find_trend(
     [np.arange(200, 325, 25), np.arange(0.98, 1.02, 0.005), np.arange(0.9, 1.2, 0.05)]
 )
 
-########## DAU ##########
+# Revenue trends
+find_trend(
+    connect(),
+    "SELECT STRFTIME(\"%Y-%m-%d\", created_time) as date, ROUND(SUM(iap_price_usd_cents + 0.0) / 100, 2) as count FROM iap_purchase GROUP BY STRFTIME(\"%Y-%m-%d\", created_time) ORDER BY date;",
+    'revenue',
+    [np.arange(100, 600, 100)],
+)
+
+######### DAU ##########
 
 # General
 dau_plot(
@@ -407,18 +415,6 @@ horizontal_barplot(
     np.arange(0, 45000, 2500)
 )
 
-
-# users by stores
-horizontal_barplot(
-    con,
-    """SELECT app_store_id, COUNT(i) AS count
-    FROM (SELECT DISTINCT app_store_id, account_id FROM iap_purchase)
-    GROUP BY app_store_id ORDER BY count DESC;""",
-    "users_country_location",
-    "",
-    np.arange(0, 45000, 2500)
-)
-
 # revenue per country
 horizontal_barplot(
     con,
@@ -437,16 +433,11 @@ horizontal_barplot(
 )
 
 
-########## REVENUE EXPERIMENTS ##########
+########## REVENUE PER STORE ##########
 
+# all stores
 revenue_per_store_plot(con, True)
-revenue_per_store_plot(con)
 
-# General trend
-find_trend(
-    connect(),
-    "SELECT STRFTIME(\"%Y-%m-%d\", created_time) as date, ROUND(SUM(iap_price_usd_cents + 0.0) / 100, 2) as count FROM iap_purchase GROUP BY STRFTIME(\"%Y-%m-%d\", created_time) ORDER BY date;",
-    'revenue',
-    [np.arange(100, 600, 100)],
-)
+# without store number 0
+revenue_per_store_plot(con)
 
